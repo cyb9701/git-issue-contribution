@@ -1,4 +1,4 @@
-## iOS 와 Webview 오류
+## iOS 내부 webview 오류
 
 https://github.com/flutter/flutter/issues/137814#issue-1975326226
 
